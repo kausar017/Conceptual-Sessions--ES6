@@ -19,9 +19,8 @@
 // const double = (x) => x * 2 ;
 // console.log(double(4));
  
-const add = (x, y) => {
-    const total = x + y;
-    return total;
-}
+// const add = (x, y) => total = x + y;
+// console.log(add(9, 7));
 
-console.log(add(5, 7));
+const add = (x=0, y=0) => x + y;
+console.log(add(2, 5));
