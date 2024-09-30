@@ -5,6 +5,9 @@ const array = [10, 50, 20, 40];
     
 // }
 
-array.forEach((item, index,a) => {
-    console.log('item:', item, 'index:',index,a);
-});
+// array.forEach((item, index,a) => {
+//     console.log('item:', item, 'index:',index,a);
+// });
+
+
+
