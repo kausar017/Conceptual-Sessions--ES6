@@ -10,8 +10,10 @@
     
 // };
 
-const bus = ' ';
+const bus = "";
 const rikshaw = 'reiksa kore jete hobe onke dure';
-
-
 console.log(bus || rikshaw);
+
+
+const x = 5;
+console.log(x === 5 ? "numbar is 5" : "not five" );
